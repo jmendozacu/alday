@@ -1,0 +1,596 @@
+
+/*!
+ * Yamm!3 - Yet another megamenu for Bootstrap 3
+ * http://geedmo.github.com/yamm3
+ * 
+ * @geedmo - Licensed under the MIT license
+ */
+ 
+@media only screen and (min-width : 1000px) {
+.header-type2 .yamm.navbar-default {
+	background-color: transparent !important;
+	border: none;
+}
+.header-type2 .yamm.navbar-default .navbar-nav > li > a {
+	color: #000;
+}
+.header-type2 .header .navbar {
+	margin-top: -34px;
+}
+.header-type2 .yamm.navbar-default .navbar-nav {
+	float: right !important;
+}
+.header-type2 #search-global-form, .header-type2 .popover-shorty, .header-type2 .hamburger {
+	display: none !important;
+}
+
+.yamm #main-menu .dropdown-menu ul {
+	margin-left: 60%;
+	margin-top: -8%;
+	display: none !important;
+	background: rgba( 34, 34,34 , 0.8);
+}
+.yamm #main-menu .dropdown-menu li:hover > ul {
+	display: block !important;
+}
+#navbar-collapse-1 .navbar-nav ul > li {
+	list-style: none;
+}
+#main-menu > li {
+	list-style: none;
+	display: inline-block;
+}
+
+}
+#navbar-collapse-1 .full-width li ul li {
+	display: inherit;
+}
+.yamm .nav, .yamm .collapse, .yamm .dropup, .yamm .dropdown {
+	position: static;
+}
+.yamm .container {
+	position: relative;
+}
+.yamm .dropdown-menu {
+	left: auto;
+}
+.yamm .yamm-content {
+	padding: 20px 30px;
+}
+.yamm .full-width .dropdown-menu {
+	left: 0;
+	right: 0;
+	padding: 30px 20px 10px 20px;
+}
+.yamm .navbar-collapse {
+	margin-left: 0;
+	padding-left: 0 !important;
+}
+.header .menu-item-has-children {
+	margin-right: 0;
+}
+.header .menu-item-has-children > a:after {
+	font-family: 'FontAwesome';
+	content: "\f107";
+	font-weight: normal;
+	font-style: normal;
+	display: block;
+	position: absolute;
+	right: 6px;
+	top: 14px;
+}
+.header .menu-item-has-children ul a:after {
+	display: none !important
+}
+.yamm .full-width li a {
+	color: #cccccc;
+	font-size: 13px;
+	position: relative;
+	padding: 2px !important;
+	text-decoration: none !important;
+}
+.yamm #main-menu .full-width ul ul {
+	margin: 0 0 0 20px !important;
+	display: inherit !important;
+}
+.yamm .full-width ul li {
+	margin-bottom: 8px !important;
+	position: relative;
+	margin-left: 0 !important;
+}
+.yamm .full-width li a strong {
+	font-family: 'oswaldbook';
+	font-weight: normal;
+	color: #fff !important;
+	text-transform: uppercase;
+	font-size: 10px !important;
+	margin: 0 3px;
+	background-color: #cd1410;
+	padding: 4px;
+}
+.yamm.navbar-default {
+	background-color: #e21712;
+	border: none;
+}
+.yamm.navbar-default li.active {
+	background-color: #e21712;
+}
+.yamm .dropdown-menu ul li {
+	position: relative;
+}
+.dropdown-menu {
+	background: #222222;
+	padding-top: 5px;
+}
+.yamm.navbar-default .navbar-nav > li > a {
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase;
+	transition: all 0.2s ease-in-out 0s;
+	position: relative;
+	font-weight:700;
+}
+.yamm.navbar-default .navbar-nav > li:hover > a {
+	box-shadow: 1px 0 10px 6px #cd1410 inset;
+}
+html .navbar-default .navbar-nav > .active > a, html .navbar-default .navbar-nav > .active > a:hover, html .navbar-default .navbar-nav > .active > a:focus {
+	box-shadow: 1px 0 10px 6px #cd1410 inset;
+}
+.dropdown-menu .thumbnail {
+	background-color: transparent;
+	border: 0;
+	border-radius: 0;
+	padding: 0px;
+	overflow: hidden;
+	position: relative;
+}
+.dropdown-menu a img {
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out
+}
+.dropdown-menu a {
+	display: inline-block;
+}
+.dropdown-menu a:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 100%;
+	background-color: rgba(255,255,255,0.4);
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+	transition: none
+}
+.dropdown-menu a:hover:after {
+	width: 120%;
+	background-color: rgba(255,255,255,0);
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out
+}
+.yamm .dropdown-menu li a, .yamm .dropdown-menu li {
+	font-weight:300;
+	color: #cccccc;
+	font-size: 13px;
+	position: relative;
+	text-transform: uppercase;
+}
+.navbar-nav .yamm-classic li a {
+	margin-bottom: 0 !important;
+	padding: 10px 20px !important;
+	text-transform: uppercase;
+}
+.yamm-classic .dropdown-menu {
+	margin-bottom: 0 !important;
+	padding-bottom: 0 !important;
+}
+.yamm-classic .dropdown-menu li {
+	margin-bottom: 0 !important;
+	position: relative;
+}
+.yamm .full-width .dropdown-menu li {
+	margin-bottom: 0;
+	position: relative;
+}
+.yamm .full-width .dropdown-menu li li {
+	margin-left: 20px;
+}
+.yamm .full-width .dropdown-menu li li:before {
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+	content: '';
+	border: 4px solid #fff;
+	border-bottom-color: transparent !important;
+	border-left-color: transparent !important;
+	left: -15px;
+	position: absolute;
+	top: 6px;
+}
+.yamm .full-width .dropdown-menu > li > a {
+	padding: 10 20px;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+}
+.yamm .full-width .dropdown-menu li a:hover {
+	text-decoration: none !important;
+	color: #ffc908;
+}
+.yamm .full-width .dropdown-menu li:hover:before {
+	border-color: #ffc908;
+}
+.yamm .full-width .dropdown-menu li:hover > a {
+	text-decoration: underline;
+}
+.yamm .full-width .dropdown-menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.yamm .dropdown-menu h1, .yamm .dropdown-menu h2, .yamm .dropdown-menu h3, .yamm .dropdown-menu h4, .yamm .dropdown-menu h5, .yamm .dropdown-menu h6 {
+	font-family: 'oswaldbook';
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #fff;
+	position: relative;
+	padding-bottom: 17px;
+	margin-bottom: 27px;
+	border-bottom: 1px solid #444444;
+}
+.yamm .dropdown-menu h1:after, .yamm .dropdown-menu h2:after, .yamm .dropdown-menu h3:after, .yamm .dropdown-menu h4:after, .yamm .dropdown-menu h5:after, .yamm .dropdown-menu h6:after {
+	border-bottom: 1px solid #444444;
+	bottom: -3px;
+	content: "";
+	display: inline-block;
+	left: 0;
+	position: absolute;
+	width: 100%;
+}
+.yamm .dropdown-menu h1:before, .yamm .dropdown-menu h2:before, .yamm .dropdown-menu h3:before, .yamm .dropdown-menu h4:before, .yamm .dropdown-menu h5:before, .yamm .dropdown-menu h6:before {
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+	content: '';
+	border: 4px solid #e21712;
+	border-bottom-color: transparent !important;
+	border-right-color: transparent !important;
+	left: -12px;
+	position: absolute;
+	top: -12px;
+}
+.yamm .dropdown-menu h1:hover:before, .yamm .dropdown-menu h2:hover:before, .yamm .dropdown-menu h3:hover:before, .yamm .dropdown-menu h4:hover:before, .yamm .dropdown-menu h5:hover:before, .yamm .dropdown-menu h6:hover:before {
+	border-color: #ffc908;
+}
+/*Block grid*/
+
+.yamm .product-grid li:after, .yamm .product-grid li:before, .yamm .label-sale, .yamm .label-hot, .yamm .label-not-available, .yamm .label-star, .yamm .label-best, .yamm .btn-action-item {
+	display: none !important;
+}
+.yamm .product-grid li {
+	display: inline-block;
+	list-style: outside none none;
+	margin: 0 !important;
+	position: relative;
+	vertical-align: top;
+	height: auto;
+	width: 100%;
+	background: none !important;
+}
+.yamm .product-image {
+	background: transparent;
+	overflow: hidden;
+	margin-bottom: 10px;
+	border: 0;
+	position: relative;
+	height: auto;
+}
+.yamm .product-bottom .product-name {
+	font-family: "oswaldbook";
+	font-size: 12px !important;
+	line-height: 20px !important;
+	position: relative;
+	text-align: left;
+	text-transform: uppercase !important;
+	border: none !important;
+}
+/*!
+ * Start Bootstrap - Simple Sidebar HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Toggle Styles */
+
+
+/*-------------------------------*/
+/*           Wrappers            */
+/*-------------------------------*/
+
+
+.logged-in #sidebar-wrapper {
+	top: 30px;
+}
+.sidebar-menu-wrap {
+	padding-left: 0;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.sidebar-menu-wrap.toggled, .sidebar-menu-wrap.toggled .yamm.navbar-fixed-top {
+	padding-left: 220px;
+}
+#sidebar-wrapper {
+	z-index: 1111;
+	left: 220px;
+	width: 0;
+	height: 100%;
+	margin-left: -220px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: #1a1a1a;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+ #sidebar-wrapper::-webkit-scrollbar {
+ display: none;
+}
+.sidebar-menu-wrap.toggled #sidebar-wrapper {
+	width: 220px;
+}
+/*-------------------------------*/
+/*     Sidebar nav styles        */
+/*-------------------------------*/
+
+.sidebar-nav {
+	position: absolute;
+	top: 15px;
+	width: 220px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sidebar-nav li {
+	position: relative;
+	line-height: 20px;
+	display: inline-block;
+	width: 100%;
+}
+.sidebar-nav li:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	height: 100%;
+	width: 0px;
+	background-color: #1c1c1c;
+	-webkit-transition: width .2s ease-in;
+	-moz-transition: width .2s ease-in;
+	-ms-transition: width .2s ease-in;
+	transition: width .2s ease-in;
+}
+.sidebar-nav li:first-child a {
+	color: #fff;
+	background-color: #1a1a1a;
+}
+.sidebar-nav li:before {
+	background-color: #e21712;
+}
+.sidebar-nav li:hover:before, .sidebar-nav li.open:hover:before {
+	width: 100%;
+	-webkit-transition: width .2s ease-in;
+	-moz-transition: width .2s ease-in;
+	-ms-transition: width .2s ease-in;
+	transition: width .2s ease-in;
+}
+.sidebar-nav li a {
+	display: block;
+	font-weight:600;
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 15px 10px 30px;
+}
+.sidebar-nav li a:hover, .sidebar-nav li a:active, .sidebar-nav li a:focus, .sidebar-nav li.open a:hover, .sidebar-nav li.open a:active, .sidebar-nav li.open a:focus {
+	color: #fff;
+	text-decoration: none;
+	background-color: transparent;
+}
+.sidebar-nav > .sidebar-brand {
+	height: 65px;
+	font-size: 20px;
+	line-height: 44px;
+}
+.sidebar-nav .dropdown-menu {
+	position: relative;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border-radius: 0;
+	border: none;
+	background-color: #222;
+	box-shadow: none;
+}
+/*-------------------------------*/
+/*       Hamburger-Cross         */
+/*-------------------------------*/
+
+
+.navbar-fixed-sidebar .hamburger span {
+	background-color: #fff !important;
+}
+.hamburger {
+	position: relative;
+	top: 9px;
+	z-index: 999;
+	display: block;
+	float: left;
+	width: 32px;
+	height: 32px;
+	margin-right: 15px;
+	background: transparent;
+	border: none;
+}
+.hamburger:hover, .hamburger:focus, .hamburger:active {
+	outline: none;
+}
+.hamburger.is-closed:before {
+	content: '';
+	display: block;
+	width: 100px;
+	font-size: 14px;
+	color: #fff;
+	line-height: 32px;
+	text-align: center;
+	opacity: 0;
+	transform: translate3d(0, 0, 0);
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-closed:hover:before {
+	opacity: 1;
+	display: block;
+	transform: translate3d(-100px, 0, 0);
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-closed .hamb-top, .hamburger.is-closed .hamb-middle, .hamburger.is-closed .hamb-bottom, .hamburger.is-open .hamb-top, .hamburger.is-open .hamb-middle, .hamburger.is-open .hamb-bottom {
+	position: absolute;
+	left: 0;
+	height: 2px;
+	width: 100%;
+}
+.hamburger.is-closed .hamb-top, .hamburger.is-closed .hamb-middle, .hamburger.is-closed .hamb-bottom {
+	background-color: #fff;
+}
+.hamburger.is-closed .hamb-top {
+	top: 7px;
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-closed .hamb-middle {
+	top: 50%;
+	margin-top: -2px;
+}
+.hamburger.is-closed .hamb-bottom {
+	bottom: 9px;
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-closed:hover .hamb-top {
+	top: 0;
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-closed:hover .hamb-bottom {
+	bottom: 0;
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-open .hamb-top, .hamburger.is-open .hamb-middle, .hamburger.is-open .hamb-bottom {
+	background-color: #fff;
+}
+.hamburger.is-open .hamb-top, .hamburger.is-open .hamb-bottom {
+	top: 50%;
+	margin-top: -2px;
+}
+.hamburger.is-open .hamb-top {
+	transform: rotate(45deg);
+	transition: transform .2s cubic-bezier(.73, 1, .28, .08);
+}
+.hamburger.is-open .hamb-middle {
+	display: none;
+}
+.hamburger.is-open .hamb-bottom {
+	transform: rotate(-45deg);
+	transition: transform .2s cubic-bezier(.73, 1, .28, .08);
+}
+.hamburger.is-open:before {
+	content: '';
+	display: block;
+	width: 100px;
+	font-size: 14px;
+	color: #fff;
+	line-height: 32px;
+	text-align: center;
+	opacity: 0;
+	transform: translate3d(0, 0, 0);
+	transition: all .35s ease-in-out;
+}
+.hamburger.is-open:hover:before {
+	opacity: 1;
+	display: block;
+	transform: translate3d(-100px, 0, 0);
+	transition: all .35s ease-in-out;
+}
+/*SideMenu Widjets*/
+
+#sidebar-wrapper * {
+	color: #fff;
+	list-style: outside none none;
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: left;
+}
+#sidebar-wrapper .widget {
+	padding: 10px 20px;
+	min-width: 223px;
+}
+#sidebar-wrapper .widget img {
+	max-width: 100%;
+	height: auto;
+}
+#sidebar-wrapper .widget-title:before {
+	display: none !important;
+}
+#sidebar-wrapper .widget-title {
+	background: none !important;
+	color: #fff;
+	font-family: "oswaldbook";
+	font-size: 16px;
+	margin-bottom: 20px;
+	padding: 1px;
+}
+#sidebar-wrapper .widget-title span {
+	font-size: 16px;
+	white-space: nowrap;
+}
+#sidebar-wrapper li {
+	margin-bottom: 5px;
+}
+#sidebar-wrapper #calendar_wrap td {
+	border: 1px solid #fff;
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+#sidebar-wrapper input[type="text"], #sidebar-wrapper textarea {
+	max-width: 100%;
+	background: #ccc;
+	border: none;
+}
+#sidebar-wrapper .tagcloud a {
+	padding: 5px !important;
+	font-size: 10px !important;
+	margin: 2px;
+	text-transform: uppercase;
+}
+#sidebar-wrapper #wp-calendar {
+	max-width: 100%;
+}

@@ -1,0 +1,210 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 1*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+a {
+	color: #02c99c;
+}
+html .nav > li > a:hover, html .nav > li > a:focus {
+	color: #02c99c;
+}
+html .pre-footer {
+	background: none repeat scroll 0 0 #02c99c;
+}
+html .after-heading-info, .highlight_text {
+	color: #02c99c;
+}
+html .bx-wrapper .bx-next {
+	background: #02c99c !important;
+}
+html .bx-wrapper .bx-next {
+	background: #02c99c !important;
+}
+html .full-title.banner-full-width {
+	background-color: #02c99c
+}
+html .featured-item-simple-icon::after {
+	border-color: #02c99c;
+}
+html .top-cart i, html .top-cart .icon-basket {
+	color: #02c99c;
+}
+html .dropdown-menu > li > a:hover, html .dropdown-menu > li > a:focus {
+	background-color: #02c99c
+}
+html .title-action a {
+	background: none repeat scroll 0 0 #02c99c !important;
+	border-color: #02c99c !important;
+}
+html .full-title-name .btn {
+	background: none repeat scroll 0 0 #02c99c!important;
+	border-color: #02c99c !important;
+}
+html .marked_list1 li:before {
+	color: #02c99c;
+}
+html .woocommerce #respond input#submit, html .woocommerce a.button, html .woocommerce button.button, html .woocommerce input.button {
+	background-color: #02c99c !important;
+	border-color: #02c99c !important;
+}
+html .product-info .nav-tabs > li.active a, html .product-info .nav-tabs > li:hover a {
+	background: #02c99c !important;
+	color: #fff !important;
+	outline: none !important;
+	border: 1px solid #02c99c;
+}
+html .product-info .nav-tabs {
+	border-top-color: #02c99c;
+}
+html .nav > li > a:hover, html .nav > li > a:focus {
+	color: #02c99c;
+}
+html .label-sale, .label-hot, html .label-not-available, html .label-best {
+	color: #526aff;
+}
+
+html a {
+  color: #02c99c;
+}
+
+.box-date-post .date-2 {
+   color: #02c99c;
+}
+
+html body  .type-post.sticky:after {
+		color: #02c99c;
+
+}/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 2*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+html .btn-link,html  .view-post-btn {
+  color: #fab703 !important;
+}
+html .demo_changer .demo-icon {
+	background: #fab703;
+}
+html .woocommerce nav.woocommerce-pagination ul li a:focus, html .woocommerce nav.woocommerce-pagination ul li a:hover, html .woocommerce nav.woocommerce-pagination ul li span.current {
+	background: #fab703 !important;
+}
+html .pagination li, html .woocommerce-pagination li {
+	border-color: #fab703 !important;
+}
+html .tagcloud a:hover {
+	background: #fab703 !important;
+}
+html .title-option {
+	background: #fab703;
+}
+html .ip-header .ip-loader svg path.ip-loader-circle {
+	stroke: #fab703 !important;
+}
+.yamm {
+	background-color: #fab703;
+}
+.yamm .dropdown-menu h1:after, .yamm .dropdown-menu h2:after, .yamm .dropdown-menu h3:after, .yamm .dropdown-menu h4:after, .yamm .dropdown-menu h5:after, .yamm .dropdown-menu h6:after {
+	border-color: #fab703 !important;
+}
+html .banner-full-width .btn.btn-primary {
+	background-color: #fab703;
+	border-color: #fab703;
+	color: #ffffff;
+}
+html .full-title-name {
+	background-color: #fab703;
+}
+html .carousel-text a.btn-read-more.btn {
+	color: #fab703;
+}
+html a.btn-read-more.btn {
+	color: #ffc300;
+}
+html .btn-primary, html .wpcf7-submit {
+	background-color: #fab703;
+	border-color: #fab703;
+}
+html .service-icon {
+	border-color: #fab703;
+}
+html .service-item:hover .service-icon {
+	background-color: #fab703;
+}
+html .pre-footer:hover {
+	background-color: #fab703;
+}
+.footer-shop .widgettitle:after {
+	border-bottom: 1px solid #fab703;
+}
+html .footer-absolute {
+	background-color: #fab703;
+}
+html .no-bg-color-parallax.parallax-yellow .bg-slideshow:after {
+	background-color: rgba(250,183, 3, 0.7);
+}
+html .btn-location-open i {
+	color: #fff;
+}
+html .product-grid li:hover .product-bottom .btn-group .btn {
+	background-color: #fab703;
+	border-color: #fab703;
+}
+html .pp-content:hover {
+	background: none repeat scroll 0 0 #fab703;
+}
+html .pp-content:hover .arrow {
+	border-color: #fab703;
+}
+html .parallax-black .service-item .fa::before {
+	color: #fab703;
+}
+html .btn-download {
+	background: #fab703;
+	color: #fff !important;
+}
+html body aside .widget_nav_menu li:before, html body aside .widget_product_categories li:before {
+	color: #fab703;
+}
+html aside .widget_nav_menu li:hover, aside .widget_product_categories li:hover {
+	border-left-color: #fab703;
+}
+.info-desc {
+	border: 7px solid #fab703;
+	box-shadow: 1px 1px 3px #fab703 inset;
+}
+html .info-desc:after {
+	background: none repeat scroll 0 0 #fab703;
+}
+html .info-desc:before {
+	background: none repeat scroll 0 0 #fab703;
+}
+html .info-desc td i {
+	color: #fab703;
+}
+html .marked_list2 li:before {
+	color: #fab703;
+}
+
+html  blockquote {
+  border-left: 3px solid #fab703;
+}
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR OTHER*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+html .banner-full-width {
+	background: none;
+	color: #333333;
+	border-top: #eeeeee 1px solid;
+	border-bottom: #eeeeee 1px solid;
+}
+html .banner-full-width p {
+	color: #333333;
+}
+html .banner-full-width .btn {
+	border-color: #333333;
+	color: #333333;
+}
+
+
+
+

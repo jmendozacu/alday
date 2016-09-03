@@ -1,0 +1,433 @@
+/* ************************************************   
+Theme Name: X-Sport
+Author: Pix-theme
+Version: 1.5.4
+Description: X-Sport it's wordpress e-commerce template.
+Theme URI:  templines.com
+Author URI: templines.com
+License URI: templines.com
+Tags: red , green , white
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300italic,300,700,700italic,900,900italic,400italic&subset=latin,latin-ext);
+
+
+#wp-calendar {
+	width: 100%;
+}
+#wp-calendar td, #wp-calendar th {
+	border: 1px solid #eee;
+	padding: 5px;
+	text-align: center;
+}
+.wp-caption {
+	max-width: 100%;
+	list-style: none;
+	background: none;
+}
+.wp-caption-text {
+	list-style: none;
+	padding: 10px;
+	background: none;
+}
+.gallery-caption {
+	list-style: none;
+	background: none;
+}
+.bypostauthor {
+	list-style: none;
+	background: none;
+}
+.sidebar .block_content img {
+	height: auto;
+	margin: 10px 0 10px;
+	max-width: 100%;
+}
+.wp-tag-cloud {
+	padding: 0;
+	margin: 0;
+}
+.wp-tag-cloud li {
+	border: medium none !important;
+	display: inline-block !important;
+	margin: 0;
+	padding: 0 !important;
+}
+.main-content td, .main-content th, .main-contenttd, .main-content td {
+	border: 1px solid #ddd;
+	font-weight: normal;
+	padding: 5px;
+	text-align: left;
+	vertical-align: middle;
+	font-size: 14px;
+}
+.main-content img {
+	max-width: 100%;
+	height: auto;
+}
+.main-content iframe {
+	max-width: 100%;
+}
+
+
+
+/*Debug*/
+
+
+.logged-in  .navbar-fixed-top {
+  top: 32px;
+}
+
+
+.top-search .dropdown-menu a:after {
+    display: none !important;
+}
+
+.clearfix.images
+{
+    width:100% !important;
+}
+
+
+/*Register*/
+
+.woocommerce-account   #respond input#submit, .woocommerce-account   .woocommerce a.button, .woocommerce-account   button.button, .woocommerce-account   input.button {
+ 
+    border: 1px solid #ddd !important;
+	color:inherit !important;
+}
+
+#customer_login  input[type="checkbox"] {
+    visibility: inherit;
+}
+
+@media only screen and (max-device-width : 768px) {
+
+.cd-events td {
+    display: table;
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+}
+
+table , .cd-events tbody , .cd-events tr{
+	display:inline-block;
+	width:100%;
+}
+
+
+html .events-content h3 {
+  color: #fff !important;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+html .x-coutdown {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.cd-events p{
+	display:none !important;
+}
+
+html .events-content .events-date {
+    font-size: 12px !important;
+    text-align: center !important;
+}
+
+
+.mobile-menu{
+	 display: block !important;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+}
+
+.mobile-menu + .yamm{
+	display:none;
+}
+
+
+}
+
+
+.mobile-menu{
+	display:none ;
+}
+
+.woocommerce #review_form #respond .form-submit input {
+    background: none repeat scroll 0 0 #000;
+    left: auto;
+    color: #fff !important;
+}
+
+
+html .woocommerce ul#shipping_method li {
+
+    text-indent: 0;
+ 
+}
+
+
+
+
+/*9.09.2015*/
+
+
+.single_variation_wrap{
+	    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: -1px;
+    background: none repeat scroll 0 0 #f7f7f7;
+}
+
+
+.variations_button {
+    padding-bottom: 10px;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.reset_variations{
+	position:relative;
+	top:5px;
+}
+
+
+.variations_button .qty {
+    float: left;
+    margin: 3px 10px 0 0px;
+}
+
+
+html .woocommerce div.product form.cart .variations label {
+    font-weight: normal;
+    color: #888;
+    position: relative;
+    top: 2px;
+    font-size: 15px;
+}
+
+
+.variations_button  .cart.button {
+    padding: 8px 10px !important;
+}
+
+html .product-right .amount {
+	margin-right:10px;
+}
+
+
+.product-right .amount + .amount  {
+    margin-left: 10px !important;
+}
+
+.variations{
+	margin:10px 0;
+}
+
+
+.btn-action-item a.btn-cart {
+    top: -4px !important;
+}
+
+html .wpb_map_wraper iframe {
+    pointer-events: auto;
+}
+
+
+html .product-image {
+    height: auto;
+}
+
+
+html .product-image img {
+    max-width: 100%;
+    height: auto;
+    min-width: 252px;
+}
+
+
+
+.woocommerce-shipping-fields input[type=checkbox] {
+visibility: visible !important;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.woocommerce-shipping-fields .checkbox{
+	display:inline-block !important;
+	float:right;
+	
+}
+
+
+.terms  input[type=checkbox] {
+visibility: visible !important;
+    margin: 10px;
+}
+
+.related.products  .product-bottom del {
+    font-size: 22px !important;
+    margin-left: 10px !important;
+    position: relative;
+    top: 5px;
+}
+
+
+
+.product-bottom  .price-box .price {
+    background: none repeat scroll 0 0 #000;
+    color: #fff;
+    display: inline-block;
+    font-family: "oswaldbook";
+    margin-right: 0;
+    font-weight: normal;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+
+.isotope-item .product-bottom  .price-box .price {
+
+    padding: 0 !important ;
+ 
+}
+
+
+html .page-header-shop.page-header .breadcrumb {
+    margin-top: 20px;
+    max-width: 60%;
+}
+
+
+.bg-slideshow li .bg-slide {
+	-webkit-animation: imageAnimation 18s linear infinite 0s;
+}
+
+
+/**
+ * Parallax
+ */
+.vc_parallax {
+  position: relative;
+  overflow: hidden;
+}
+.vc_parallax > * {
+  position: relative;
+  z-index: 1;
+}
+.vc_parallax .vc_parallax-inner {
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-attachment: scroll;
+  background-color: transparent;
+  background-image: inherit;
+  background-size: cover;
+  z-index: 0;
+  background-position: 50% 0%;
+}
+.vc_parallax-inner iframe {
+  max-width: 1000%;
+}
+.vc_video-bg-container {
+  position: relative;
+}
+.vc_video-bg {
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 0;
+}
+.vc_video-bg iframe {
+  max-width: 1000%;
+}
+
+/*26.10.2015*/
+
+html .page-header-shop.page-header {
+	background-attachment: inherit  !important;
+}
+
+.yamm .bg-slideshow + .vc_row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+.product-grid li.product-category {
+    display: inline-block;
+    list-style: outside none none;
+    margin: 0 0 15px 0;
+    position: relative;
+    vertical-align: top;
+    width: 19%;
+}
+html .product-category h3 {
+    font-family: "oswaldbook";
+    font-size: 15px;
+    line-height: 20px;
+    position: relative;
+    margin: 0;
+    padding: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.product-category img{
+display:none !important;
+}
+
+  
+  @media only screen and (min-device-width: 768px) {
+  
+html .pix-header2 .yamm {
+    position: fixed;
+    top: 0px;
+}
+
+
+html .logged-in  .pix-header2 .yamm {
+    position: fixed;
+    top: 20px;
+}
+
+  }
+
+
+#pix-shop   .product-grid li:nth-child(3n) {
+    margin-right: 40px !important;
+}
+
+
+/*21.01.2016*/
+
+.vc_tta-panel-title a{
+	font-size: 13px;
+    color: #888888;
+	text-transform:uppercase;
+}
+
+html .vc_tta.vc_general .vc_tta-title-text:not(:empty):not(:first-child), html  .vc_tta.vc_general .vc_tta-title-text:not(:empty) ~ * {
+    margin-left: 14px !important;
+}
+
+/*27.04.2016*/
+
+html .banner-full-width {
+    margin-bottom: 0px;
+}
+

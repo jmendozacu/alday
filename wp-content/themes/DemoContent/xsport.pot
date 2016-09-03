@@ -1,0 +1,3891 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: X-Sport\n"
+"POT-Creation-Date: 2016-03-30 21:03+0300\n"
+"PO-Revision-Date: 2016-03-30 21:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:10 themes/xsport/404.php:10
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:13 themes/xsport/404.php:13
+msgid ""
+"The page you are looking for seems to be missing.Go back, or return to "
+"yourcompany.com to choose a new direction.Please report any broken links to "
+"our team."
+msgstr ""
+
+#: 404.php:16 themes/xsport/404.php:16
+msgid "Return to previous page"
+msgstr ""
+
+#: addons/wp-pagenavi.php:44 themes/xsport/addons/wp-pagenavi.php:44
+msgid "&larr;"
+msgstr ""
+
+#: addons/wp-pagenavi.php:45 themes/xsport/addons/wp-pagenavi.php:45
+msgid "&rarr;"
+msgstr ""
+
+#: addons/wp-pagenavi.php:48 addons/wp-pagenavi.php:49
+#: addons/wp-pagenavi.php:187 addons/wp-pagenavi.php:188
+#: themes/xsport/addons/wp-pagenavi.php:48
+#: themes/xsport/addons/wp-pagenavi.php:49
+#: themes/xsport/addons/wp-pagenavi.php:187
+#: themes/xsport/addons/wp-pagenavi.php:188
+msgid "..."
+msgstr ""
+
+#: addons/wp-pagenavi.php:99 themes/xsport/addons/wp-pagenavi.php:99
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: addons/wp-pagenavi.php:185 themes/xsport/addons/wp-pagenavi.php:185
+msgid "1"
+msgstr ""
+
+#: addons/wp-pagenavi.php:186 themes/xsport/addons/wp-pagenavi.php:186
+msgid "<span class=\"icon-chevron-left\"></span>"
+msgstr ""
+
+#: comments.php:10 themes/xsport/comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24 library/functions/widgets.php:242
+#: themes/xsport/comments.php:24
+#: themes/xsport/library/functions/widgets.php:242
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:43 themes/xsport/comments.php:29
+#: themes/xsport/comments.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:46 themes/xsport/comments.php:32
+#: themes/xsport/comments.php:46
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:58 themes/xsport/comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73 themes/xsport/comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: comments.php:75 themes/xsport/comments.php:75
+msgid "logged in"
+msgstr ""
+
+#: comments.php:77 themes/xsport/comments.php:77
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:88 themes/xsport/comments.php:88
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:90 themes/xsport/comments.php:90
+msgid "Log out"
+msgstr ""
+
+#: comments.php:101 library/functions/shortcodes/vc_shortcode.php:1237
+#: library/functions/shortcodes/vc_shortcode.php:1310
+#: library/functions/shortcodes/vc_shortcode.php:1451
+#: library/functions/widgets.php:375 themes/xsport/comments.php:101
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1254
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1327
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1468
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1237
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1310
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1451
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1135
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1208
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1349
+#: themes/xsport/library/functions/widgets.php:375
+msgid "Name"
+msgstr ""
+
+#: comments.php:106 library/functions/widgets.php:377
+#: themes/xsport/comments.php:106
+#: themes/xsport/library/functions/widgets.php:377
+msgid "Email"
+msgstr ""
+
+#: comments.php:118 themes/xsport/comments.php:118
+msgid "Your Message *"
+msgstr ""
+
+#: comments.php:118 themes/xsport/comments.php:118
+msgid "Comment"
+msgstr ""
+
+#: comments.php:124 themes/xsport/comments.php:124
+msgid "Send Message."
+msgstr ""
+
+#: events_loop.php:39 themes/xsport/events_loop.php:39
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"set\n"
+"\t\t\t\t\tthe categories you want to show by editing this page and setting "
+"one or more categories \n"
+"\t\t\t\t\tin the multi checkbox field \"Portfolio Categories\"."
+msgstr ""
+
+#: functions.php:419 themes/xsport/functions.php:464
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:420 themes/xsport/functions.php:465
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:421 themes/xsport/functions.php:466
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:599
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:161
+#: themes/xsport/functions.php:661
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:600
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:162
+#: themes/xsport/functions.php:662
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:601
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:163
+#: themes/xsport/functions.php:663
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:602 themes/xsport/functions.php:664
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:603
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:165
+#: themes/xsport/functions.php:665
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:604
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:166
+#: themes/xsport/functions.php:666
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:605
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:167
+#: themes/xsport/functions.php:667
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:606
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:168
+#: themes/xsport/functions.php:668
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:607
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:169
+#: themes/xsport/functions.php:669
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:608
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:170
+#: themes/xsport/functions.php:670
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:609
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:171
+#: themes/xsport/functions.php:671
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:610
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:172
+#: themes/xsport/functions.php:672
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:611
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:173
+#: themes/xsport/functions.php:673
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:612
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:174
+#: themes/xsport/functions.php:674
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:613
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:175
+#: themes/xsport/functions.php:675
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:614
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:177
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1956
+#: themes/xsport/functions.php:676
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:177
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:615 themes/xsport/functions.php:677
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:904 themes/xsport/functions.php:1002
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: functions.php:948 themes/xsport/functions.php:1046
+msgid "Global Colors"
+msgstr ""
+
+#: functions.php:967 themes/xsport/functions.php:1065
+msgid "First Color"
+msgstr ""
+
+#: functions.php:973 themes/xsport/functions.php:1071
+msgid "Second Color"
+msgstr ""
+
+#: functions.php:982 themes/xsport/functions.php:1080
+msgid "Global Font"
+msgstr ""
+
+#: functions.php:1002 functions.php:1039 themes/xsport/functions.php:1100
+#: themes/xsport/functions.php:1137
+msgid "Font Family"
+msgstr ""
+
+#: functions.php:1009 functions.php:1046 themes/xsport/functions.php:1107
+#: themes/xsport/functions.php:1144
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:1019 themes/xsport/functions.php:1117
+msgid "Title Font"
+msgstr ""
+
+#: header.php:77 themes/xsport-child/header.php:77 themes/xsport/header.php:77
+msgid "THEME OPTIONS"
+msgstr ""
+
+#: header.php:83 themes/xsport-child/header.php:83 themes/xsport/header.php:83
+msgid "Color schemes"
+msgstr ""
+
+#: header.php:190 themes/xsport-child/header.php:190
+#: themes/xsport/header.php:173
+msgid "Filter by"
+msgstr ""
+
+#: header.php:194 themes/xsport-child/header.php:194
+#: themes/xsport/header.php:177
+msgid "Press Enter to search"
+msgstr ""
+
+#: header.php:203 themes/xsport-child/header.php:203
+#: themes/xsport/header.php:186
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:164
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:176
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:178
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1644
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:178
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:179
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:180
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:532
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2173
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:532
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1167
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1348
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1167
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1170
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1351
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1170
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1175
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1178
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1178
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1181
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1183
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1288
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1409
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1288
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1312
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1410
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1312
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1372
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1388
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1389
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1390
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1391
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1939
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1940
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1941
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1942
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1943
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1944
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:1955
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2069
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2070
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2071
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2072
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2076
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2077
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2078
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2080
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/admin/admin-panel/class-tgm-plugin-activation.php:2081
+#: themes/xsport/library/admin/admin-panel/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/admin/custom-fields.php:5 library/admin/custom-fields.php:6
+#: library/admin/custom-fields.php:7
+#: themes/xsport/library/admin/custom-fields.php:5
+#: themes/xsport/library/admin/custom-fields.php:6
+#: themes/xsport/library/admin/custom-fields.php:7
+msgid "PixTheme - Page Layout Options"
+msgstr ""
+
+#: library/admin/custom-fields.php:30 library/admin/custom-fields.php:83
+#: library/functions/filters.php:25
+#: themes/xsport/library/admin/custom-fields.php:30
+#: themes/xsport/library/admin/custom-fields.php:83
+#: themes/xsport/library/functions/filters.php:25
+msgid "Use global settings"
+msgstr ""
+
+#: library/admin/custom-fields.php:45
+#: themes/xsport/library/admin/custom-fields.php:45
+msgid "Sidebar type"
+msgstr ""
+
+#: library/admin/custom-fields.php:48
+#: themes/xsport/library/admin/custom-fields.php:48
+msgid "Full width"
+msgstr ""
+
+#: library/admin/custom-fields.php:49
+#: themes/xsport/library/admin/custom-fields.php:49
+msgid "Right Sidebar"
+msgstr ""
+
+#: library/admin/custom-fields.php:50
+#: themes/xsport/library/admin/custom-fields.php:50
+msgid "Left Sidebar"
+msgstr ""
+
+#: library/admin/custom-fields.php:54
+#: themes/xsport/library/admin/custom-fields.php:54
+msgid "Sidebar content"
+msgstr ""
+
+#: library/admin/custom-fields.php:62
+#: themes/xsport/library/admin/custom-fields.php:62
+msgid "WP Default Sidebar"
+msgstr ""
+
+#: library/admin/custom-fields.php:80
+#: themes/xsport/library/admin/custom-fields.php:80
+msgid "Header type"
+msgstr ""
+
+#: library/admin/custom-fields.php:84
+#: themes/xsport/library/admin/custom-fields.php:84
+msgid "Header #1"
+msgstr ""
+
+#: library/admin/custom-fields.php:85
+#: themes/xsport/library/admin/custom-fields.php:85
+msgid "Header #2"
+msgstr ""
+
+#: library/admin/custom-fields.php:88
+#: themes/xsport/library/admin/custom-fields.php:88
+msgid "Footer Static Block"
+msgstr ""
+
+#: library/functions/events.php:45
+#: themes/xsport/library/functions/events.php:45
+msgid "Event Info"
+msgstr ""
+
+#: library/functions/events.php:80
+#: themes/xsport/library/functions/events.php:80
+msgid "Event Start Date:"
+msgstr ""
+
+#: library/functions/events.php:83
+#: themes/xsport/library/functions/events.php:83
+msgid "Event End Date:"
+msgstr ""
+
+#: library/functions/events.php:86
+#: themes/xsport/library/functions/events.php:86
+msgid "Event Venue:"
+msgstr ""
+
+#: library/functions/events.php:89
+#: themes/xsport/library/functions/events.php:89
+msgid "Event Image Size:"
+msgstr ""
+
+#: library/functions/events.php:95
+#: themes/xsport/library/functions/events.php:95
+msgid "Event Image Position:"
+msgstr ""
+
+#: library/functions/events.php:101
+#: themes/xsport/library/functions/events.php:101
+msgid "Event Link:"
+msgstr ""
+
+#: library/functions/filters.php:119
+#: themes/xsport/library/functions/filters.php:119
+msgid "Portfolio Option"
+msgstr ""
+
+#: library/functions/filters.php:126
+#: themes/xsport/library/functions/filters.php:126
+msgid "Post Types"
+msgstr ""
+
+#: library/functions/filters.php:138
+#: themes/xsport/library/functions/filters.php:138
+msgid "Post Type For Image"
+msgstr ""
+
+#: library/functions/filters.php:146
+#: themes/xsport/library/functions/filters.php:146
+msgid "Post Type For Video"
+msgstr ""
+
+#: library/functions/filters.php:152 library/functions/filters.php:164
+#: library/functions/shortcodes/vc_shortcode.php:656
+#: library/functions/shortcodes/vc_shortcode.php:798
+#: library/functions/shortcodes/vc_shortcode.php:833
+#: themes/xsport/library/functions/filters.php:152
+#: themes/xsport/library/functions/filters.php:164
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:673
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:815
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:850
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:656
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:798
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:833
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:554
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:696
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:731
+msgid "."
+msgstr ""
+
+#: library/functions/filters.php:155
+#: themes/xsport/library/functions/filters.php:155
+msgid "Range video width"
+msgstr ""
+
+#: library/functions/filters.php:156 library/functions/filters.php:168
+#: themes/xsport/library/functions/filters.php:156
+#: themes/xsport/library/functions/filters.php:168
+msgid " px"
+msgstr ""
+
+#: library/functions/filters.php:167
+#: themes/xsport/library/functions/filters.php:167
+msgid "Range video height"
+msgstr ""
+
+#: library/functions/filters.php:176
+#: themes/xsport/library/functions/filters.php:176
+msgid "Custom Content"
+msgstr ""
+
+#: library/functions/filters.php:190
+#: themes/xsport/library/functions/filters.php:190
+msgid "Post Format Options"
+msgstr ""
+
+#: library/functions/filters.php:197
+#: themes/xsport/library/functions/filters.php:197
+msgid "Post Standared:"
+msgstr ""
+
+#: library/functions/filters.php:204
+#: themes/xsport/library/functions/filters.php:204
+msgid "Post Gallery:"
+msgstr ""
+
+#: library/functions/filters.php:210
+#: themes/xsport/library/functions/filters.php:210
+msgid "Quote Source:"
+msgstr ""
+
+#: library/functions/filters.php:217
+#: themes/xsport/library/functions/filters.php:217
+msgid "Quote Content:"
+msgstr ""
+
+#: library/functions/filters.php:224
+#: themes/xsport/library/functions/filters.php:224
+msgid "Video"
+msgstr ""
+
+#: library/functions/functions.php:182
+#: themes/xsport/library/functions/functions.php:182
+msgid "BLOG"
+msgstr ""
+
+#: library/functions/helper.php:21
+#: themes/xsport/library/functions/helper.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/functions/helper.php:29
+#: themes/xsport/library/functions/helper.php:29
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/functions/helper.php:30
+#: themes/xsport/library/functions/helper.php:30
+msgid "(Edit)"
+msgstr ""
+
+#: library/functions/meta-box/inc/field.php:221
+#: themes/xsport/library/functions/meta-box/inc/field.php:221
+msgid "+"
+msgstr ""
+
+#: library/functions/meta-box/inc/field.php:231
+#: themes/xsport/library/functions/meta-box/inc/field.php:231
+msgid "&#8211;"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/button.php:35
+#: themes/xsport/library/functions/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-advanced.php:23
+#: themes/xsport/library/functions/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-advanced.php:66
+#: themes/xsport/library/functions/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-advanced.php:102
+#: library/functions/meta-box/inc/fields/file.php:137
+#: themes/xsport/library/functions/meta-box/inc/fields/file-advanced.php:102
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:137
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-advanced.php:103
+#: library/functions/meta-box/inc/fields/file.php:138
+#: themes/xsport/library/functions/meta-box/inc/fields/file-advanced.php:103
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-input.php:17
+#: themes/xsport/library/functions/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-input.php:40
+#: themes/xsport/library/functions/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file-input.php:42
+#: themes/xsport/library/functions/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file.php:19
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file.php:20
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file.php:70
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file.php:83
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/file.php:84
+#: themes/xsport/library/functions/meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image-advanced.php:22
+#: themes/xsport/library/functions/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image-advanced.php:70
+#: themes/xsport/library/functions/meta-box/inc/fields/image-advanced.php:70
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image-advanced.php:106
+#: library/functions/meta-box/inc/fields/image.php:136
+#: themes/xsport/library/functions/meta-box/inc/fields/image-advanced.php:106
+#: themes/xsport/library/functions/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image-advanced.php:107
+#: library/functions/meta-box/inc/fields/image.php:137
+#: themes/xsport/library/functions/meta-box/inc/fields/image-advanced.php:107
+#: themes/xsport/library/functions/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image.php:70
+#: library/functions/meta-box/inc/fields/thickbox-image.php:34
+#: themes/xsport/library/functions/meta-box/inc/fields/image.php:70
+#: themes/xsport/library/functions/meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/image.php:71
+#: themes/xsport/library/functions/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/map.php:48
+#: themes/xsport/library/functions/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/oembed.php:54
+#: themes/xsport/library/functions/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/oembed.php:76
+#: themes/xsport-child/vc_templates/woocommerceblock.php:76
+#: themes/xsport/library/functions/meta-box/inc/fields/oembed.php:76
+#: themes/xsport/vc_templates/woocommerceblock.php:76
+#: vc_templates/woocommerceblock.php:65
+msgid "Preview"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/plupload-image.php:105
+#: themes/xsport/library/functions/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/plupload-image.php:106
+#: themes/xsport/library/functions/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/plupload-image.php:107
+#: themes/xsport/library/functions/meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/plupload-image.php:182
+#: themes/xsport/library/functions/meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/post.php:52
+#: themes/xsport/library/functions/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/post.php:66
+#: library/functions/meta-box/inc/fields/taxonomy.php:40
+#: library/functions/meta-box/inc/fields/user.php:62
+#: themes/xsport/library/functions/meta-box/inc/fields/post.php:66
+#: themes/xsport/library/functions/meta-box/inc/fields/taxonomy.php:40
+#: themes/xsport/library/functions/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: library/functions/meta-box/inc/fields/user.php:54
+#: themes/xsport/library/functions/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: library/functions/meta-box/inc/meta-box.php:244
+#: themes/xsport/library/functions/meta-box/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:15
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:15
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:15
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:15
+msgid "CSS Animation"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:19
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:19
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:19
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:19
+msgid "No"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:20
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:20
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:20
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:20
+msgid "bounce"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:21
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:21
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:21
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:21
+msgid "flash"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:22
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:22
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:22
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:22
+msgid "pulse"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:23
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:23
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:23
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:23
+msgid "rubberBand"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:24
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:24
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:24
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:24
+msgid "shake"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:25
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:25
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:25
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:25
+msgid "swing"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:26
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:26
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:26
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:26
+msgid "tada"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:27
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:27
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:27
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:27
+msgid "wobble"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:28
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:28
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:28
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:28
+msgid "jello"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:30
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:30
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:30
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:30
+msgid "bounceIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:31
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:31
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:31
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:31
+msgid "bounceInDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:32
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:32
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:32
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:32
+msgid "bounceInLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:33
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:33
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:33
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:33
+msgid "bounceInRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:34
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:34
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:34
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:34
+msgid "bounceInUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:35
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:35
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:35
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:35
+msgid "bounceOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:36
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:36
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:36
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:36
+msgid "bounceOutDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:37
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:37
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:37
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:37
+msgid "bounceOutLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:38
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:38
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:38
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:38
+msgid "bounceOutRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:39
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:39
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:39
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:39
+msgid "bounceOutUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:41
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:41
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:41
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:41
+msgid "fadeIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:42
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:42
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:42
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:42
+msgid "fadeInDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:43
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:43
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:43
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:43
+msgid "fadeInDownBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:44
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:44
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:44
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:44
+msgid "fadeInLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:45
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:45
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:45
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:45
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:46
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:46
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:46
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:46
+msgid "fadeInRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:47
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:47
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:47
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:47
+msgid "fadeInRightBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:48
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:48
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:48
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:48
+msgid "fadeInUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:49
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:49
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:49
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:49
+msgid "fadeInUpBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:50
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:50
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:50
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:50
+msgid "fadeOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:51
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:51
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:51
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:51
+msgid "fadeOutDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:52
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:52
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:52
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:52
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:53
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:53
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:53
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:53
+msgid "fadeOutLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:54
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:54
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:54
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:54
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:55
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:55
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:55
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:55
+msgid "fadeOutRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:56
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:56
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:56
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:56
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:57
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:57
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:57
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:57
+msgid "fadeOutUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:58
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:58
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:58
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:58
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:60
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:60
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:60
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:60
+msgid "flip"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:61
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:61
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:61
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:61
+msgid "flipInX"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:62
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:62
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:62
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:62
+msgid "flipInY"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:63
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:63
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:63
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:63
+msgid "flipOutX"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:64
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:64
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:64
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:64
+msgid "flipOutY"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:66
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:66
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:66
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:66
+msgid "lightSpeedIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:67
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:67
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:67
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:67
+msgid "lightSpeedOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:69
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:69
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:69
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:69
+msgid "rotateIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:70
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:70
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:70
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:70
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:71
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:71
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:71
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:71
+msgid "rotateInDownRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:72
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:72
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:72
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:72
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:73
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:73
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:73
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:73
+msgid "rotateInUpRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:74
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:74
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:74
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:74
+msgid "rotateOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:75
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:75
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:75
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:75
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:76
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:76
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:76
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:76
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:77
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:77
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:77
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:77
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:78
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:78
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:78
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:78
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:80
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:80
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:80
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:80
+msgid "slideInUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:81
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:81
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:81
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:81
+msgid "slideInDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:82
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:82
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:82
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:82
+msgid "slideInLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:83
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:83
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:83
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:83
+msgid "slideInRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:84
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:84
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:84
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:84
+msgid "slideOutUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:85
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:85
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:85
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:85
+msgid "slideOutDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:86
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:86
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:86
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:86
+msgid "slideOutLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:87
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:87
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:87
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:87
+msgid "slideOutRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:89
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:89
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:89
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:89
+msgid "zoomIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:90
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:90
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:90
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:90
+msgid "zoomInDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:91
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:91
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:91
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:91
+msgid "zoomInLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:92
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:92
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:92
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:92
+msgid "zoomInRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:93
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:93
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:93
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:93
+msgid "zoomInUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:94
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:94
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:94
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:94
+msgid "zoomOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:95
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:95
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:95
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:95
+msgid "zoomOutDown"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:96
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:96
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:96
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:96
+msgid "zoomOutLeft"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:97
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:97
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:97
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:97
+msgid "zoomOutRight"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:98
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:98
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:98
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:98
+msgid "zoomOutUp"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:100
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:100
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:100
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:100
+msgid "hinge"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:101
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:101
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:101
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:101
+msgid "rollIn"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:102
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:102
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:102
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:102
+msgid "rollOut"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:105
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:105
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:105
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:105
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:139
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:139
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:139
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:139
+msgid "Portfolio"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: library/functions/shortcodes/vc_shortcode.php:142
+#: library/functions/shortcodes/vc_shortcode.php:260
+#: library/functions/shortcodes/vc_shortcode.php:301
+#: library/functions/shortcodes/vc_shortcode.php:349
+#: library/functions/shortcodes/vc_shortcode.php:398
+#: library/functions/shortcodes/vc_shortcode.php:441
+#: library/functions/shortcodes/vc_shortcode.php:579
+#: library/functions/shortcodes/vc_shortcode.php:628
+#: library/functions/shortcodes/vc_shortcode.php:640
+#: library/functions/shortcodes/vc_shortcode.php:668
+#: library/functions/shortcodes/vc_shortcode.php:701
+#: library/functions/shortcodes/vc_shortcode.php:733
+#: library/functions/shortcodes/vc_shortcode.php:781
+#: library/functions/shortcodes/vc_shortcode.php:816
+#: library/functions/shortcodes/vc_shortcode.php:869
+#: library/functions/shortcodes/vc_shortcode.php:912
+#: library/functions/shortcodes/vc_shortcode.php:940
+#: library/functions/shortcodes/vc_shortcode.php:1007
+#: library/functions/shortcodes/vc_shortcode.php:1079
+#: library/functions/shortcodes/vc_shortcode.php:1196
+#: library/functions/shortcodes/vc_shortcode.php:1283
+#: library/functions/shortcodes/vc_shortcode.php:1417
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:142
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:258
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:299
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:347
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:396
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:439
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:530
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:599
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:657
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:685
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:718
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:750
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:798
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:833
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:886
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:929
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:957
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1024
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1096
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1213
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1300
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1434
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:142
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:260
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:301
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:349
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:398
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:441
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:579
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:628
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:640
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:668
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:701
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:733
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:781
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:816
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:869
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:912
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:940
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1007
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1079
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1196
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1283
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1417
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:142
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:175
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:216
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:264
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:313
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:356
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:447
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:498
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:538
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:566
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:599
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:631
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:679
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:714
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:767
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:810
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:838
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:905
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:977
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1094
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1181
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1315
+msgid "X-Sport"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:146
+#: library/functions/shortcodes/vc_shortcode.php:916
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:146
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:933
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:146
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:916
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:146
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:814
+msgid "Items Count"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:148
+#: library/functions/shortcodes/vc_shortcode.php:326
+#: library/functions/shortcodes/vc_shortcode.php:374
+#: library/functions/shortcodes/vc_shortcode.php:647
+#: library/functions/shortcodes/vc_shortcode.php:682
+#: library/functions/shortcodes/vc_shortcode.php:715
+#: library/functions/shortcodes/vc_shortcode.php:789
+#: library/functions/shortcodes/vc_shortcode.php:824
+#: library/functions/shortcodes/vc_shortcode.php:918
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:148
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:324
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:372
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:664
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:699
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:732
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:806
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:841
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:935
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:148
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:326
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:374
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:647
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:682
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:715
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:789
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:824
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:918
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:148
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:241
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:289
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:545
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:580
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:613
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:687
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:722
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:816
+msgid "Select image from media library."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:152
+#: library/functions/shortcodes/vc_shortcode.php:705
+#: pixtheme-custom/pixtheme-custom.php:235
+#: pixtheme-custom/pixtheme-custom.php:424
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:152
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:722
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:152
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:705
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:152
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:603
+msgid "Categories"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:155
+#: library/functions/shortcodes/vc_shortcode.php:708
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:155
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:725
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:155
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:708
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:155
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:606
+msgid "Select categories to show"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:174
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:176
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:174
+msgid "Flaticon"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:177
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:179
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:177
+msgid "Font Awesome"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:180
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:182
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:180
+msgid "Elegant"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:183
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:185
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:183
+msgid "Icomoon"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:186
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:188
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:186
+msgid "Simple"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:189
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:191
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:189
+msgid "Custom 1"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:192
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:194
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:192
+msgid "Custom 2"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:195
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:197
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:195
+msgid "Custom 3"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:198
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:200
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:198
+msgid "Custom 4"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:201
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:203
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:201
+msgid "Custom 5"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:204
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:206
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:204
+msgid "VC Font Awesome"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:207
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:209
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:207
+msgid "VC Open Iconic"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:210
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:212
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:210
+msgid "VC Typicons"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:213
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:215
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:213
+msgid "VC Entypo"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:216
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:218
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:216
+msgid "VC Linecons"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:221
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:223
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:221
+msgid "Icon library"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:225
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:227
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:225
+msgid "Select icon library."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:235
+#: library/functions/shortcodes/vc_shortcode.php:542
+#: library/functions/shortcodes/vc_shortcode.php:600
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:235
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:545
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:614
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:235
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:542
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:600
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:462
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:513
+msgid "Icon"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:247
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:247
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:247
+msgid "Select icon from library."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:257
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:255
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:257
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:172
+msgid "Title Section "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:266
+#: library/functions/shortcodes/vc_shortcode.php:307
+#: library/functions/shortcodes/vc_shortcode.php:355
+#: library/functions/shortcodes/vc_shortcode.php:404
+#: library/functions/shortcodes/vc_shortcode.php:533
+#: library/functions/shortcodes/vc_shortcode.php:591
+#: library/functions/shortcodes/vc_shortcode.php:739
+#: library/functions/shortcodes/vc_shortcode.php:875
+#: library/functions/shortcodes/vc_shortcode.php:1034
+#: library/functions/shortcodes/vc_shortcode.php:1084
+#: library/functions/shortcodes/vc_shortcode.php:1112
+#: library/functions/shortcodes/vc_shortcode.php:1202
+#: library/functions/shortcodes/vc_shortcode.php:1217
+#: library/functions/widgets.php:176 library/functions/widgets.php:330
+#: library/functions/widgets.php:509 pixtheme-custom/pixtheme-custom.php:441
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:264
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:305
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:353
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:402
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:536
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:605
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:756
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:892
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1051
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1101
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1129
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1219
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1234
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:266
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:307
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:355
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:404
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:533
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:591
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:739
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:875
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1034
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1084
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1112
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1202
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1217
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:181
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:222
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:270
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:319
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:453
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:504
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:637
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:773
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:932
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:982
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1010
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1100
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1115
+#: themes/xsport/library/functions/widgets.php:176
+#: themes/xsport/library/functions/widgets.php:330
+#: themes/xsport/library/functions/widgets.php:509
+msgid "Title"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:268
+#: library/functions/shortcodes/vc_shortcode.php:741
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:266
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:758
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:268
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:741
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:183
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:639
+msgid "I am Title"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:269
+#: library/functions/shortcodes/vc_shortcode.php:310
+#: library/functions/shortcodes/vc_shortcode.php:358
+#: library/functions/shortcodes/vc_shortcode.php:407
+#: library/functions/shortcodes/vc_shortcode.php:742
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:267
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:308
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:356
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:405
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:759
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:269
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:310
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:358
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:407
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:742
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:184
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:225
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:273
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:322
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:640
+msgid "Title param."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:275
+#: library/functions/shortcodes/vc_shortcode.php:364
+#: library/functions/shortcodes/vc_shortcode.php:413
+#: library/functions/shortcodes/vc_shortcode.php:748
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:273
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:362
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:411
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:765
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:275
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:364
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:413
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:748
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:190
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:279
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:328
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:646
+msgid "Text Before"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:277
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:275
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:277
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:192
+msgid "Title Before"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:286
+#: library/functions/shortcodes/vc_shortcode.php:334
+#: library/functions/shortcodes/vc_shortcode.php:382
+#: library/functions/shortcodes/vc_shortcode.php:424
+#: library/functions/shortcodes/vc_shortcode.php:458
+#: library/functions/shortcodes/vc_shortcode.php:563
+#: library/functions/shortcodes/vc_shortcode.php:612
+#: library/functions/shortcodes/vc_shortcode.php:767
+#: library/functions/shortcodes/vc_shortcode.php:849
+#: library/functions/shortcodes/vc_shortcode.php:894
+#: library/functions/shortcodes/vc_shortcode.php:1257
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:284
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:332
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:380
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:422
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:456
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:581
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:641
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:784
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:866
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:911
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1274
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:286
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:334
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:382
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:424
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:458
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:563
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:612
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:767
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:849
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:894
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1257
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:201
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:249
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:297
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:339
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:373
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:480
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:522
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:665
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:747
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:792
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1155
+msgid "Content"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:288
+#: library/functions/shortcodes/vc_shortcode.php:336
+#: library/functions/shortcodes/vc_shortcode.php:384
+#: library/functions/shortcodes/vc_shortcode.php:460
+#: library/functions/shortcodes/vc_shortcode.php:565
+#: library/functions/shortcodes/vc_shortcode.php:614
+#: library/functions/shortcodes/vc_shortcode.php:769
+#: library/functions/shortcodes/vc_shortcode.php:1051
+#: library/functions/shortcodes/vc_shortcode.php:1259
+#: library/functions/shortcodes/vc_shortcode.php:1394
+#: library/functions/shortcodes/vc_shortcode.php:1467
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:286
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:334
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:382
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:458
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:583
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:643
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:786
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1068
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1276
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1411
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1484
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:288
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:336
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:384
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:460
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:565
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:614
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:769
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1051
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1259
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1394
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1467
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:203
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:251
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:299
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:375
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:482
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:524
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:667
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:949
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1157
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1292
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1365
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:289
+#: library/functions/shortcodes/vc_shortcode.php:337
+#: library/functions/shortcodes/vc_shortcode.php:385
+#: library/functions/shortcodes/vc_shortcode.php:427
+#: library/functions/shortcodes/vc_shortcode.php:461
+#: library/functions/shortcodes/vc_shortcode.php:566
+#: library/functions/shortcodes/vc_shortcode.php:615
+#: library/functions/shortcodes/vc_shortcode.php:770
+#: library/functions/shortcodes/vc_shortcode.php:855
+#: library/functions/shortcodes/vc_shortcode.php:1260
+#: library/functions/shortcodes/vc_shortcode.php:1386
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:287
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:335
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:383
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:425
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:459
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:584
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:644
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:787
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:872
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1277
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1403
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:289
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:337
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:385
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:427
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:461
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:566
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:615
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:770
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:855
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1260
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1386
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:204
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:252
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:300
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:342
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:376
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:483
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:525
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:668
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:753
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1158
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1284
+msgid "Enter your content."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:298
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:296
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:298
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:213
+msgid "Title image "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:309
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:307
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:309
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:224
+msgid "ABOUT THE CLUB"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:316
+#: library/functions/shortcodes/vc_shortcode.php:757
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:314
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:774
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:316
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:757
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:231
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:655
+msgid "Text After"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:318
+#: library/functions/shortcodes/vc_shortcode.php:357
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:316
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:355
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:318
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:357
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:233
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:272
+msgid "XTREME SPORTS CLUB"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:323
+#: library/functions/shortcodes/vc_shortcode.php:371
+#: library/functions/shortcodes/vc_shortcode.php:644
+#: library/functions/shortcodes/vc_shortcode.php:786
+#: library/functions/shortcodes/vc_shortcode.php:821
+#: library/functions/shortcodes/vc_shortcode.php:1028
+#: library/functions/shortcodes/vc_shortcode.php:1223
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:321
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:369
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:661
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:803
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:838
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1045
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1240
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:323
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:371
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:644
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:786
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:821
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1028
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1223
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:238
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:286
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:542
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:684
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:719
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:926
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1121
+msgid "Image"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:346
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:344
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:346
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:261
+msgid "Title image 2 "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:366
+#: library/functions/shortcodes/vc_shortcode.php:395
+#: library/functions/shortcodes/vc_shortcode.php:415
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:364
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:393
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:413
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:366
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:395
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:415
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:281
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:310
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:330
+msgid "WELCOME TO"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:406
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:404
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:406
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:321
+msgid "XTREME SPORTS CLUB ONLINE SHOP"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:426
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:424
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:426
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:341
+msgid ""
+"<p>Aenean urna tellus sodales aliquam egestas quis convallis cursus magna. "
+"Fusce sa scelerisque. Proin tempor rci vestibulum adipiscing. Etiam blanditd "
+"Vestibulum nis Duis nibh dui porttitor eu rhoncus uted. Fusce lacus alc "
+"neque interdum pulvinarl Integer vel ante ut. Pellentesque habitant "
+"tristique senectus et netus et malesuada fames ac nunc placerat cursus eros. "
+"Donec turpis. Nullam porttitor urabitur</p>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:438
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:436
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:438
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:353
+msgid "Sub Title "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:447
+#: library/functions/shortcodes/vc_shortcode.php:449
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:445
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:447
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:447
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:449
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:362
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:364
+msgid "Subtitle"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:535
+#: library/functions/shortcodes/vc_shortcode.php:593
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:538
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:607
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:535
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:593
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:455
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:506
+msgid "I am title"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:536
+#: library/functions/shortcodes/vc_shortcode.php:594
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:539
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:608
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:536
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:594
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:456
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:507
+msgid "Add Title "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:544
+#: library/functions/shortcodes/vc_shortcode.php:602
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:547
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:616
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:544
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:602
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:464
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:515
+msgid "fa-flag"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:545
+#: library/functions/shortcodes/vc_shortcode.php:603
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:548
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:617
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:545
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:603
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:465
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:516
+msgid ""
+"Add icon <a href='http://fortawesome.github.io/Font-Awesome/icons/' "
+"target='_blank'>Font-Awesome</a> or Use theme icons (please check "
+"documentation)"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:554
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:572
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:554
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:471
+msgid "Url"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:556
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:574
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:556
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:473
+msgid "https://www.google.by"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:557
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:575
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:557
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:474
+msgid "Add url"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:576
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:527
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:576
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:444
+msgid "Featured Services"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:625
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:596
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:625
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:495
+msgid "Featured Box"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:637
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:654
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:637
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:535
+msgid "Brands"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:653
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:670
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:653
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:551
+msgid "url"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:655
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:672
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:655
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:553
+msgid "https://wordpress.com"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:665
+#: pixtheme-custom/pixtheme-custom.php:389
+#: pixtheme-custom/pixtheme-custom.php:408
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:682
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:665
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:563
+msgid "Events"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:672
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:689
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:672
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:570
+msgid "Events Count"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:698
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:715
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:698
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:596
+msgid "Woocommerce Products"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:712
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:729
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:712
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:610
+msgid "Products Count"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:730
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:747
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:730
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:628
+msgid "Title Section"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:750
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:767
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:750
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:648
+msgid "I am title Before"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:759
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:776
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:759
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:657
+msgid "I am test text block. Click edit button to change this text. "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:778
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:795
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:778
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:676
+msgid "Video Box"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:795
+#: library/functions/shortcodes/vc_shortcode.php:830
+#: library/functions/shortcodes/vc_shortcode.php:884
+#: library/functions/shortcodes/vc_shortcode.php:1041
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:812
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:847
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:901
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1058
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:795
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:830
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:884
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1041
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:693
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:728
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:782
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:939
+msgid "Link"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:797
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:814
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:797
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:695
+msgid "https://vimeo.com/88644449"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:813
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:830
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:813
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:711
+msgid "Promo Box"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:839
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:856
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:839
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:737
+msgid "Button Text"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:841
+#: library/functions/shortcodes/vc_shortcode.php:877
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:858
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:894
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:841
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:877
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:739
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:775
+msgid "SHOP NOW"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:851
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:868
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:851
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:749
+msgid ""
+"\n"
+"\t\t\t\t\t  <h3>WATER SPORTS</h3>\n"
+"                <h4>COLLECTION</h4>\n"
+"\t\t\t\t"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:866
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:883
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:866
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:764
+msgid "Banner Box"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:878
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:895
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:878
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:776
+msgid "Button Title"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:886
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:903
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:886
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:784
+msgid "https:/templines.com"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:887
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:904
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:887
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:785
+msgid "Button link"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:896
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:913
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:896
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:794
+msgid ""
+" <h4>GET FREE SHIPPING WHEN YOU SPEND JUST $30 OR MORE!</h4>\n"
+"<h5>WE WILL SHIP YOUR ITEM WITHIN 2 DAYS</h5>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:898
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:915
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:898
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:796
+msgid "Banner Text"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:909
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:926
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:909
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:807
+msgid "Post's Grid"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:935
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:952
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:935
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:833
+msgid "Brands carousel"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:945
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:962
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:945
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:843
+msgid "Max slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:947
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:964
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:947
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:845
+msgid "Max slides on page. Default 3."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:951
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:968
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:951
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:849
+msgid "Min slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:953
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:970
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:953
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:851
+msgid "Min slides on page. Default 1."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:957
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:974
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:957
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:855
+msgid "Width slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:959
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:976
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:959
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:857
+msgid "Default 380."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:963
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:980
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:963
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:861
+msgid "Margin slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:965
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:982
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:965
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:863
+msgid "Default 10."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:969
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:986
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:969
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:867
+msgid "Auto slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:971
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:988
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:971
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:869
+msgid "Default 1. Type 0 to disable auto slides."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:975
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:992
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:975
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:873
+msgid "Move slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:977
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:994
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:977
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:875
+msgid "Number of changing slides. Default 3."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:981
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:998
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:981
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:879
+msgid "Infinite slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:983
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1000
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:983
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:881
+msgid "Default 0. Type 1 to infinite slides."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:987
+#: library/functions/shortcodes/vc_shortcode.php:1012
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1004
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1029
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:987
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1012
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:885
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:910
+msgid "Disable Carousel"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:989
+#: library/functions/shortcodes/vc_shortcode.php:1014
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1006
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1031
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:989
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1014
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:887
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:912
+msgid "Default 1. Type 0 to disable carousel."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1002
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1019
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1002
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:900
+msgid "Archievements carousel"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1021
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1038
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1021
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:919
+msgid "Archievements Info"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1030
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1047
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1030
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:928
+msgid "Select image."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1036
+#: library/functions/shortcodes/vc_shortcode.php:1086
+#: library/functions/shortcodes/vc_shortcode.php:1114
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1053
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1103
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1131
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1036
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1086
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1114
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:934
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:984
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1012
+msgid "Title info."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1043
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1060
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1043
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:941
+msgid "Info link."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1049
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1066
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1049
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:947
+msgid "Info"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1052
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1069
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1052
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:950
+msgid "Enter information."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1074
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1091
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1074
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:972
+msgid "Price Table"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1090
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1107
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1090
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:988
+msgid "More Information"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1092
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1109
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1092
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:990
+msgid "More Information."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1096
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1113
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1096
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:994
+msgid "Phone"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1098
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1115
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1098
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:996
+msgid "Phone info."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1105
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1122
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1105
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1003
+msgid "Price Table Item"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1118
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1135
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1118
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1016
+msgid "Price"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1120
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1137
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1120
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1018
+msgid "Price info."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1124
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1141
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1124
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1022
+msgid "Offer #1"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1126
+#: library/functions/shortcodes/vc_shortcode.php:1132
+#: library/functions/shortcodes/vc_shortcode.php:1138
+#: library/functions/shortcodes/vc_shortcode.php:1144
+#: library/functions/shortcodes/vc_shortcode.php:1150
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1143
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1149
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1155
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1161
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1167
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1126
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1132
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1138
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1144
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1150
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1024
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1030
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1036
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1042
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1048
+msgid "Offer info."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1130
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1147
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1130
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1028
+msgid "Offer #2"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1136
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1153
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1136
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1034
+msgid "Offer #3"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1142
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1159
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1142
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1040
+msgid "Offer #4"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1148
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1165
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1148
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1046
+msgid "Offer #5"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1154
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1171
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1154
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1052
+msgid "Subscripte Text"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1156
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1173
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1156
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1054
+msgid "Subscripte Text."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1160
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1177
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1160
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1058
+msgid "Subscribe Link"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1162
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1179
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1162
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1060
+msgid "Subscripte Link."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1190
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1207
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1190
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1088
+msgid "About Tabs"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1204
+#: library/functions/shortcodes/vc_shortcode.php:1219
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1221
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1236
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1204
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1219
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1102
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1117
+msgid "Tab title."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1209
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1226
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1209
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1107
+msgid "About Tab"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1226
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1243
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1226
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1124
+msgid "Select autor "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1230
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1247
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1230
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1128
+msgid "Promo"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1233
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1250
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1233
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1131
+msgid "Select banner "
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1239
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1256
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1239
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1137
+msgid "Name."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1243
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1260
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1243
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1141
+msgid "Position"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1245
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1262
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1245
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1143
+msgid "position."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1249
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1266
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1249
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1147
+msgid "Additional"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1251
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1268
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1251
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1149
+msgid "additional information"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1277
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1294
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1277
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1175
+msgid "Staff Carousel"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1287
+#: library/functions/shortcodes/vc_shortcode.php:1421
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1304
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1438
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1287
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1421
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1185
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1319
+msgid "Carousel title"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1289
+#: library/functions/shortcodes/vc_shortcode.php:1423
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1306
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1440
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1289
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1423
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1187
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1321
+msgid ""
+"Enter text which will be used as caurusel title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1296
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1313
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1296
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1194
+msgid "Staff item"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1304
+#: library/functions/shortcodes/vc_shortcode.php:1445
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1321
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1462
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1304
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1445
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1202
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1343
+msgid "Avatar"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1306
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1323
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1306
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1204
+msgid "Select image"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1315
+#: library/functions/shortcodes/vc_shortcode.php:1457
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1332
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1474
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1315
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1457
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1213
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1355
+msgid "Postition"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1317
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1334
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1317
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1215
+msgid "Postition title."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1321
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1338
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1321
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1219
+msgid "Social Link 1"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1323
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1340
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1323
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1221
+msgid "https://www.facebook.com/"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1327
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1344
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1327
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1225
+msgid "Social Network Icon 1"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1329
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1346
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1329
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1227
+msgid ""
+"Add icon fa-facebook <a href=\"http://fortawesome.github.io/Font-Awesome/"
+"icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1333
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1350
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1333
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1231
+msgid "Social Link 2"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1335
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1352
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1335
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1233
+msgid "https://twitter.com/"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1339
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1356
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1339
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1237
+msgid "Social Network Icon 2"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1341
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1358
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1341
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1239
+msgid ""
+"Add icon fa-twitter <a href=\"http://fortawesome.github.io/Font-Awesome/"
+"icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1345
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1362
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1345
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1243
+msgid "Social Link 3"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1347
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1364
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1347
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1245
+msgid "https://plus.google.com/"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1351
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1368
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1351
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1249
+msgid "Social Network Icon 3"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1353
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1370
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1353
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1251
+msgid ""
+"Add icon fa-google-plus <a href=\"http://fortawesome.github.io/Font-Awesome/"
+"icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1357
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1374
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1357
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1255
+msgid "Social Link 4"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1359
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1376
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1359
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1257
+msgid "http://www.w3.org/TR/html5/"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1363
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1380
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1363
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1261
+msgid "Social Network Icon 4"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1365
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1382
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1365
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1263
+msgid ""
+"Add icon fa-html5 <a href=\"http://fortawesome.github.io/Font-Awesome/icons/"
+"\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1369
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1386
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1369
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1267
+msgid "Social Link 5"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1371
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1388
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1371
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1269
+msgid "https://github.com/"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1375
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1392
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1375
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1273
+msgid "Social Network Icon 5"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1377
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1394
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1377
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1275
+msgid ""
+"Add icon fa-github <a href=\"http://fortawesome.github.io/Font-Awesome/icons/"
+"\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1383
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1400
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1383
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1281
+msgid "Short description"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1385
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1402
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1385
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1283
+msgid "I am test text block. Click edit button to change this text."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1392
+#: library/functions/shortcodes/vc_shortcode.php:1465
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1409
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1482
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1392
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1465
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1290
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1363
+msgid "Full Description"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1395
+#: library/functions/shortcodes/vc_shortcode.php:1468
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1412
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1485
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1395
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1468
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1293
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1366
+msgid "Enter your full description."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1411
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1428
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1411
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1309
+msgid "Carousel Reviews"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1427
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1444
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1427
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1325
+msgid "Enable Carousel"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1430
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1447
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1430
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1328
+msgid "Select reviews display type"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1437
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1454
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1437
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1335
+msgid "Review"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1447
+#: library/functions/shortcodes/vc_shortcode.php:1453
+#: library/functions/shortcodes/vc_shortcode.php:1459
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1464
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1470
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1476
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1447
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1453
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1459
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1345
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1351
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1357
+msgid "Accordion section title."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1488
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1505
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1488
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1386
+msgid "Background Slides"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1490
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1507
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1490
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1388
+msgid "Background Slides."
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1497
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1514
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1497
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1395
+msgid "Page Decor Option"
+msgstr ""
+
+#: library/functions/shortcodes/vc_shortcode.php:1504
+#: themes/xsport/library/functions/shortcodes/vc_shortcode+.php:1521
+#: themes/xsport/library/functions/shortcodes/vc_shortcode.php:1504
+#: themes/xsport/library/functions/shortcodes/vc_shortcode_.php:1402
+msgid "Text Color"
+msgstr ""
+
+#: library/functions/widgets.php:19
+#: themes/xsport/library/functions/widgets.php:19
+msgid "Display images from flickr"
+msgstr ""
+
+#: library/functions/widgets.php:28
+#: themes/xsport/library/functions/widgets.php:28
+msgid "PixTheme - Flickr images"
+msgstr ""
+
+#: library/functions/widgets.php:72
+#: themes/xsport/library/functions/widgets.php:72
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets.php:77
+#: themes/xsport/library/functions/widgets.php:77
+msgid "Flickr ID:"
+msgstr ""
+
+#: library/functions/widgets.php:82
+#: themes/xsport/library/functions/widgets.php:82
+msgid "Number of photos:"
+msgstr ""
+
+#: library/functions/widgets.php:106
+#: themes/xsport/library/functions/widgets.php:106
+msgid "Display latest blog posts on footer"
+msgstr ""
+
+#: library/functions/widgets.php:110
+#: themes/xsport/library/functions/widgets.php:110
+msgid "PixTheme Footer Blog Posts"
+msgstr ""
+
+#: library/functions/widgets.php:181 library/functions/widgets.php:335
+#: library/functions/widgets.php:522
+#: themes/xsport/library/functions/widgets.php:181
+#: themes/xsport/library/functions/widgets.php:335
+#: themes/xsport/library/functions/widgets.php:522
+msgid "Number of Posts to show"
+msgstr ""
+
+#: library/functions/widgets.php:186 library/functions/widgets.php:340
+#: themes/xsport/library/functions/widgets.php:186
+#: themes/xsport/library/functions/widgets.php:340
+msgid "Category (Leave Blank to show from all categories)"
+msgstr ""
+
+#: library/functions/widgets.php:191
+#: themes/xsport/library/functions/widgets.php:191
+msgid "Show thumbnails"
+msgstr ""
+
+#: library/functions/widgets.php:217
+#: themes/xsport/library/functions/widgets.php:217
+msgid "Retrieve and display popular/latest posts/latest comments."
+msgstr ""
+
+#: library/functions/widgets.php:221
+#: themes/xsport/library/functions/widgets.php:221
+msgid "PixTheme Popular/Latest posts/Last comments"
+msgstr ""
+
+#: library/functions/widgets.php:240
+#: themes/xsport/library/functions/widgets.php:240
+msgid "Popular"
+msgstr ""
+
+#: library/functions/widgets.php:241
+#: themes/xsport/library/functions/widgets.php:241
+msgid "Recent"
+msgstr ""
+
+#: library/functions/widgets.php:297
+#: themes/xsport/library/functions/widgets.php:297
+msgid "on "
+msgstr ""
+
+#: library/functions/widgets.php:301
+#: themes/xsport/library/functions/widgets.php:301
+msgid "on"
+msgstr ""
+
+#: library/functions/widgets.php:357
+#: themes/xsport/library/functions/widgets.php:357
+msgid "Contact widget"
+msgstr ""
+
+#: library/functions/widgets.php:358
+#: themes/xsport/library/functions/widgets.php:358
+msgid "PixTheme - Contact Form"
+msgstr ""
+
+#: library/functions/widgets.php:363
+#: themes/xsport/library/functions/widgets.php:363
+msgid "Contact Us"
+msgstr ""
+
+#: library/functions/widgets.php:365
+#: themes/xsport/library/functions/widgets.php:365
+msgid "Thank you, e-mail sent."
+msgstr ""
+
+#: library/functions/widgets.php:380
+#: themes/xsport/library/functions/widgets.php:380
+msgid "Message"
+msgstr ""
+
+#: library/functions/widgets.php:385
+#: themes/xsport/library/functions/widgets.php:385
+msgid "Send"
+msgstr ""
+
+#: library/functions/widgets.php:421
+#: themes/xsport/library/functions/widgets.php:421
+msgid "Title:<br />"
+msgstr ""
+
+#: library/functions/widgets.php:425
+#: themes/xsport/library/functions/widgets.php:425
+msgid "Email Address:<br />"
+msgstr ""
+
+#: library/functions/widgets.php:429
+#: themes/xsport/library/functions/widgets.php:429
+msgid "Success Message:<br />"
+msgstr ""
+
+#: library/functions/widgets.php:450
+#: themes/xsport/library/functions/widgets.php:450
+msgid "Display latest works (Portoflio)"
+msgstr ""
+
+#: library/functions/widgets.php:454
+#: themes/xsport/library/functions/widgets.php:454
+msgid "PixTheme - Latest Works"
+msgstr ""
+
+#: library/functions/widgets.php:514
+#: themes/xsport/library/functions/widgets.php:514
+msgid "Show only featured posts"
+msgstr ""
+
+#: library/includes/the_breadcrumb.php:16
+#: themes/xsport/library/includes/the_breadcrumb.php:16
+msgid "Home"
+msgstr ""
+
+#: loop.php:13 themes/xsport/loop.php:11
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:15 themes/xsport/loop.php:13
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:27
+msgctxt "post type general name"
+msgid "Static Blocks"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:28
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:29
+msgctxt "admin menu"
+msgid "Static Blocks"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:30
+msgctxt "add new on admin bar"
+msgid "Static Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:31
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:32
+msgid "Add New Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:33
+msgid "New Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:34
+msgid "Edit Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:35
+msgid "View Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:36
+msgid "All Blocks"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:37
+msgid "Search Block"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:38
+msgid "Parent Block:"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:39
+msgid "No blocks found."
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:40
+msgid "No blocks found in Trash."
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:96
+msgid "Static Block Description"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:100
+msgid "Select the block to display at the bottom of the product page"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:227
+msgid "Edit Work"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:236
+#: pixtheme-custom/pixtheme-custom.php:425
+#: pixtheme-custom/pixtheme-custom.php:442
+msgid "Category"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:390
+msgid "Event"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:391
+msgid "Add New Event"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:392
+msgid "All Events"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:393
+msgid "Edit Event"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:394
+msgid "New Event"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:395
+msgid "View Event"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:396
+msgid "No Events Found"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:397
+msgid "No Events Found in Trash"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:410
+msgid "A list of upcoming events"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:440
+msgid "Image Preview"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:443
+msgid "Start Date"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:444
+msgid "End Date"
+msgstr ""
+
+#: pixtheme-custom/pixtheme-custom.php:445
+msgid "Venue"
+msgstr ""
+
+#: search.php:41 themes/xsport/search.php:41
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:43 themes/xsport/search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:5 themes/xsport/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: single.php:90 single.php:93 themes/xsport/single.php:90
+#: themes/xsport/single.php:93
+msgid "About Author"
+msgstr ""
+
+#: single.php:117 themes/xsport/single.php:117
+msgid "author posts  "
+msgstr ""
+
+#: taxonomy-portfolio_category.php:66
+#: themes/xsport/taxonomy-portfolio_category.php:66
+msgid "Show All"
+msgstr ""
+
+#: taxonomy-portfolio_category.php:107
+#: themes/xsport/taxonomy-portfolio_category.php:107
+msgid "No preview image"
+msgstr ""
+
+#: themes/xsport-child/header.php:259 themes/xsport/header.php:242
+msgid "MENU"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/eventsblock.php:43
+#: themes/xsport/vc_templates/eventsblock.php:43
+#: vc_templates/eventsblock.php:41
+msgid "See event"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/eventsblock.php:75
+#: themes/xsport/vc_templates/eventsblock.php:75
+#: vc_templates/eventsblock.php:74
+msgid "THE COUNTDOWN BEGINS"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/portfolioblock.php:14
+#: themes/xsport-child/vc_templates/wooinfblock.php:15
+#: themes/xsport-child/vc_templates/woopicksblock.php:15
+#: themes/xsport-child/vc_templates/wootrendblock.php:14
+#: themes/xsport/vc_templates/portfolioblock.php:14
+#: themes/xsport/vc_templates/wooinfblock.php:15
+#: themes/xsport/vc_templates/woopicksblock.php:15
+#: themes/xsport/vc_templates/wootrendblock.php:14
+#: vc_templates/portfolioblock.php:14 vc_templates/wooinfblock.php:15
+#: vc_templates/woopicksblock.php:15 vc_templates/wootrendblock.php:14
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"set the categories you want to show by editing this shortcode and setting "
+"one or more categories in the multi checkbox field \"Categories\"."
+msgstr ""
+
+#: themes/xsport-child/vc_templates/portfolioblock.php:29
+#: themes/xsport/vc_templates/portfolioblock.php:29
+#: vc_templates/portfolioblock.php:29
+msgid "All Services"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/portfolioblock.php:113
+#: themes/xsport-child/vc_templates/portfolioblock.php:129
+#: themes/xsport-child/vc_templates/portfolioblock.php:144
+#: themes/xsport-child/vc_templates/portfolioblock.php:166
+#: themes/xsport/vc_templates/portfolioblock.php:113
+#: themes/xsport/vc_templates/portfolioblock.php:129
+#: themes/xsport/vc_templates/portfolioblock.php:144
+#: themes/xsport/vc_templates/portfolioblock.php:166
+#: vc_templates/portfolioblock.php:113 vc_templates/portfolioblock.php:129
+#: vc_templates/portfolioblock.php:144 vc_templates/portfolioblock.php:166
+msgid "Learn More"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/postsblock.php:47
+#: themes/xsport/vc_templates/postsblock.php:47 vc_templates/postsblock.php:47
+msgid "In: "
+msgstr ""
+
+#: themes/xsport-child/vc_templates/postsblock.php:57
+#: themes/xsport/vc_templates/postsblock.php:57 vc_templates/postsblock.php:57
+msgid "Tags: "
+msgstr ""
+
+#: themes/xsport-child/vc_templates/postsblock.php:66
+#: themes/xsport/vc_templates/postsblock.php:66 vc_templates/postsblock.php:66
+msgid "On: "
+msgstr ""
+
+#: themes/xsport-child/vc_templates/postsblock.php:83
+#: themes/xsport/vc_templates/postsblock.php:83 vc_templates/postsblock.php:83
+msgid "READ MORE"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/postsgrid.php:76
+#: themes/xsport/vc_templates/postsgrid.php:76 vc_templates/postsgrid.php:76
+msgid "read more"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/vc_tab.php:9
+#: themes/xsport/vc_templates/vc_tab.php:9 vc_templates/vc_tab.php:9
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: themes/xsport-child/vc_templates/vc_tabs.php:44
+#: themes/xsport/vc_templates/vc_tabs.php:44 vc_templates/vc_tabs.php:44
+msgid "Previous tab"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/vc_tabs.php:44
+#: themes/xsport/vc_templates/vc_tabs.php:44 vc_templates/vc_tabs.php:44
+msgid "Next tab"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/woocommerceblock.php:26
+#: themes/xsport/vc_templates/woocommerceblock.php:26
+#: vc_templates/woocommerceblock.php:22
+msgid "All Sport"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/woocommerceblock.php:112
+#: themes/xsport/vc_templates/woocommerceblock.php:112
+#: themes/xsport/woocommerce/loop/sale-flash.php:22
+#: themes/xsport/woocommerce/single-product/sale-flash.php:21
+#: vc_templates/woocommerceblock.php:89 woocommerce/loop/sale-flash.php:22
+#: woocommerce/single-product/sale-flash.php:21
+msgid "sale"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/woocommerceblock.php:116
+#: themes/xsport/vc_templates/woocommerceblock.php:116
+#: themes/xsport/woocommerce/loop/sale-flash.php:27
+#: themes/xsport/woocommerce/single-product/sale-flash.php:33
+#: vc_templates/woocommerceblock.php:93 woocommerce/loop/sale-flash.php:27
+#: woocommerce/single-product/sale-flash.php:33
+msgid "bestseller"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/woocommerceblock.php:121
+#: themes/xsport/vc_templates/woocommerceblock.php:121
+#: themes/xsport/woocommerce/loop/sale-flash.php:32
+#: themes/xsport/woocommerce/single-product/sale-flash.php:38
+#: vc_templates/woocommerceblock.php:98 woocommerce/loop/sale-flash.php:32
+#: woocommerce/single-product/sale-flash.php:38
+msgid "hot"
+msgstr ""
+
+#: themes/xsport-child/vc_templates/woocommerceblock.php:127
+#: themes/xsport/vc_templates/woocommerceblock.php:127
+#: themes/xsport/woocommerce/loop/sale-flash.php:38
+#: themes/xsport/woocommerce/single-product/sale-flash.php:27
+#: vc_templates/woocommerceblock.php:104 woocommerce/loop/sale-flash.php:38
+#: woocommerce/single-product/sale-flash.php:27
+msgid "not available"
+msgstr ""
+
+#: themes/xsport/under-construction.php:50 under-construction.php:50
+msgid "Weeks"
+msgstr ""
+
+#: themes/xsport/under-construction.php:53 under-construction.php:53
+msgid "Days"
+msgstr ""
+
+#: themes/xsport/under-construction.php:56 under-construction.php:56
+msgid "Hours"
+msgstr ""
+
+#: themes/xsport/under-construction.php:59 under-construction.php:59
+msgid "Minutes"
+msgstr ""
+
+#: themes/xsport/under-construction.php:62 under-construction.php:62
+msgid "Seconds"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:51
+#: woocommerce/cart/mini-cart.php:51
+msgid "Quantity"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:54
+#: woocommerce/cart/mini-cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:66
+#: woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:71
+#: woocommerce/cart/mini-cart.php:71
+msgid "Checkout"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:72
+#: woocommerce/cart/mini-cart.php:72
+msgid "View Cart"
+msgstr ""
+
+#: themes/xsport/woocommerce/cart/mini-cart.php:77
+#: woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr ""
+
+#: themes/xsport/woocommerce/content-product.php:111
+#: woocommerce/content-product.php:111
+msgid "View more"
+msgstr ""
+
+#: themes/xsport/woocommerce/global/quantity-input.php:15
+#: woocommerce/global/quantity-input.php:15
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: themes/xsport/woocommerce/loop/orderby.php:21
+#: woocommerce/loop/orderby.php:21
+msgid "Sort By"
+msgstr ""
+
+#: themes/xsport/woocommerce/loop/orderby.php:44
+#: woocommerce/loop/orderby.php:44
+msgid "VIEW"
+msgstr ""
+
+#: themes/xsport/woocommerce/loop/result-count.php:31
+#: woocommerce/loop/result-count.php:31
+msgid "Showing the single result"
+msgstr ""
+
+#: themes/xsport/woocommerce/loop/result-count.php:33
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: themes/xsport/woocommerce/loop/result-count.php:35
+#: woocommerce/loop/result-count.php:35
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/meta.php:26
+#: woocommerce/single-product/meta.php:26
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/xsport/woocommerce/single-product/meta.php:28
+#: woocommerce/single-product/meta.php:28
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/xsport/woocommerce/single-product/related.php:53
+#: woocommerce/single-product/related.php:53
+msgid "Related Products"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/tabs/additional-information.php:16
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/tabs/description.php:16
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/title.php:21
+#: woocommerce/single-product/title.php:21
+msgid "SKU:"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/title.php:21
+#: woocommerce/single-product/title.php:21
+msgid "N/A"
+msgstr ""
+
+#: themes/xsport/woocommerce/single-product/up-sells.php:51
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "templines.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "X-Sport it's wordpress e-commerce template."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pix-theme"
+msgstr ""

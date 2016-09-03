@@ -1,0 +1,50 @@
+html .yamm.navbar-default, html .yamm.navbar-default li.active, html .box-date-post, html .btn-primary, html .tag-cloud li:hover, html .category-list li:hover, html .ft-box:hover, html .x-item-wrap .details, html .x-item-wrap .details:after, html .service-icon:after, html .icon-ft-list:after, html #filter li a:after, html .btn-icon, html .slide-desc:after, html #cd-team li:hover .staff-wrap, html #cd-team li:hover .staff-position, html #cd-team li:hover .cd-member-info:after, html .social-team li a:after, html #contactForm .btn-xl, html .table-line:hover .price-plan-wrap h3, html .table-line.active .price-plan-wrap h3, html .table-line:hover .ptable-offer-button, html .table-line.active .ptable-offer-button, html .btn-action-item a:hover, html .cd-events-wrapper .flex-direction-nav li:hover a, html .cd-submit, html .x-carousel li:after, html .primary-color, html .promo-item:hover .promo-caption, .x-navigation .btn-danger, html .blog-post-panel .btn:hover, html .subcategory-list .sub-heading, html .active-btn, html .active-btn, html .popover-shorty .panel-footer .btn, .product-button-group .btn-danger, html .view-post-btn:hover {
+	background-color: #000;
+}
+html .breadcrumb > .active, html .fot-title, html .blockquote-quote .fa-quote-left, html .blockquote-quote .fa-quote-right, html .avatar-about h4, html .service-item:hover h4, html .autor-date .fa, html .small-logo, html .price-regular-single, html .comment-datetime span[class*="icon-"] {
+	color: #000;
+}
+html .box-date-post:before, html blockquote, html .social-box .social-links li a:before, html .btn-primary, .yamm .dropdown-menu h5:before, .blockquote-title:before, html .outline-outward:before, html .outline-outward.btn-icon:before, html .icon-set-wrap .icon-set, html .table-line:hover .ptable-offer-button:after, html .table-line.active .ptable-offer-button:after, html .cd-events-wrapper .flex-direction-nav li:hover a, html .ft-list li:hover .icon-ft-list, .x-navigation .btn-danger, .popover-shorty .panel-footer .btn {
+	border-color: #000;
+}
+html body .navbar-default .navbar-nav > .active > a, html body .navbar-default .navbar-nav > .active > a:hover, html body .navbar-default .navbar-nav > .active > a:focus, html .yamm.navbar-default .navbar-nav > li:hover > a {
+	box-shadow: 1px 0 10px 6px #69A031 inset;
+}
+.ip-header .ip-loader svg path.ip-loader-circle {
+	stroke: #000; /*loader color*/
+}
+
+html body .navbar-default .navbar-nav > .active > a, html body .navbar-default .navbar-nav > .active > a:hover, html body .navbar-default .navbar-nav > .active > a:focus, html .yamm.navbar-default .navbar-nav > li:hover > a {
+    box-shadow: none;
+    opacity: 0.6;
+}
+
+html .wpcf7-submit {
+  background: #000;
+}
+
+html .home-section .fot-contact i {
+  border-color:  #000 !important;
+}
+
+html  .home-section .mc4wp-form button{
+	  background: #000;
+}
+
+html   .home-section .mc4wp-form button:after {
+  border-color:  #000 ;
+}
+
+
+html .woocommerce div.product p.price, .woocommerce div.product span.price {
+  color: #000 ;
+}
+
+html .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+  background-color: #000;
+}
+
+html .pagination li.current a, .woocommerce-pagination .current {
+  background-color:#000;
+  border-color: #000;
+}

@@ -1,0 +1,19 @@
+/* Start: Recommended Isotope styles */
+
+
+.slide-desc table{
+	width:100%;
+	height:auto;
+}
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
